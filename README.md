@@ -1,7 +1,11 @@
 
 <h1 align="center"><b>Hi , I'm Carolina Rengifo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <p align="center">
+  <img src="imagenes/1760372500272.jpg" width="600">
+</p>
+
+**About me**
 <picture> <img align="right" src="media.licdn.com/dms/image/v2/D4E16AQGAwrEnTtXITA/profile-displaybackgroundimage-shrink_350_1400/B4EZneYKLlIoAY-/0/1760372500272?e=1769644800&v=beta&t=KJlU0PO7n1oljnLVDEMSAJ8nNHw3WCWHUcYHTBO0MPY" width = 250px></picture>
 
 
