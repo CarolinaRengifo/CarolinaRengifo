@@ -82,3 +82,45 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </p>
+
+
+
+## <b> Let's Connect..!</b>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"/>
+
+<br>
+
+<div align="left">
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/carolina-rengifo/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Carolina_Rengifo-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://github.com/CarolinaRengifo" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-CarolinaRengifo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:carolinarengifo.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-Carolina_Rengifo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+</a>
+</li>
+
+</ul>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br><br>
