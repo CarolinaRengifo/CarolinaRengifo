@@ -6,7 +6,7 @@
 </p>
 
 **About me**
-<picture> <img align="right" src="media.licdn.com/dms/image/v2/D4E16AQGAwrEnTtXITA/profile-displaybackgroundimage-shrink_350_1400/B4EZneYKLlIoAY-/0/1760372500272?e=1769644800&v=beta&t=KJlU0PO7n1oljnLVDEMSAJ8nNHw3WCWHUcYHTBO0MPY" width = 250px></picture>
+<picture> <img align="right" src="imagenes/491882741_1343849543369414_2602808751405538556_n-removebg-preview.png" width = 250px></picture>
 
 
 Here are some ideas to get you started:
