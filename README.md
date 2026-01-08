@@ -116,6 +116,14 @@ Here are some ideas to get you started:
 </a>
 </li>
 
+<br>
+
+<li>
+<a href="https://www.behance.net/carolinarengifo" target="_blank">
+<img src="https://img.shields.io/badge/Behance-Carolina_Rengifo-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
 </ul>
 </div>
 
