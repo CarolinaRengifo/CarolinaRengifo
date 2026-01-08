@@ -1,8 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Carolina Rengifo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <p align="center">
-  <img src="imagenes/1760372500272.jpg" width="600">
+<p align="center">
+  <img src="imagenes/1760372500272.jpg" width="800">
 </p>
 
 **About me**
