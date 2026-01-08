@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 <br>
 
 <li>
-<a href="mailto:carolinarengifo.dev@gmail.com" target="_blank">
+<a href="mailto:rengicaro1997@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-Carolina_Rengifo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
 </li>
