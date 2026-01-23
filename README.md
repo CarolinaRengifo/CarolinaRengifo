@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/carolina-rengifo/" target="_blank">
+<a href="https://www.linkedin.com/in/carolina-rengifo-macias-59a131195/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Carolina_Rengifo-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 </li>
