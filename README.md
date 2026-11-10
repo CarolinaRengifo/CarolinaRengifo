@@ -40,11 +40,6 @@ I enjoy combining software development, data analysis, and user-centered design 
 ## 🚀 Featured Projects
 
 ### 📱 Chagas Score — Mobile Healthcare Application
-
-<p align="center">
-  <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-10-08 at 15.24.08.png" width="180">
-</p>
-
 A mobile application designed to support the evaluation of mortality risk in patients with Chagas disease.
 
 - Cross-platform mobile application development.
@@ -54,6 +49,13 @@ A mobile application designed to support the evaluation of mortality risk in pat
 - Interface improvements and functional updates.
 
 **Technologies:** Flutter · Dart
+
+<p align="center">
+  <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-10-08 at 15.24.08.png" width="180">
+  <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-10-08 at 15.24.08.png" width="180">
+  <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-10-08 at 15.24.08.png" width="180">
+  <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-10-08 at 15.24.08.png" width="180">
+</p>
 
 ---
 
