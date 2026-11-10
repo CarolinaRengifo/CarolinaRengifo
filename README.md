@@ -6,7 +6,7 @@
 </p>
 
 **About me**
-<picture> <img align="right" src="imagenes/imagenes/Retrato profesional en oficina moderna (1).png" width = 250px></picture>
+<picture> <img align="right" src="imagenes/Retrato profesional en oficina moderna (1).png" width = 250px></picture>
 
 
 Here are some ideas to get you started:
