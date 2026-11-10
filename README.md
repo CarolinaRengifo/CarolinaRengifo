@@ -6,7 +6,7 @@
 </p>
 
 **About me**
-<picture> <img align="right" src="imagenes/491882741_1343849543369414_2602808751405538556_n-removebg-preview.png" width = 250px></picture>
+<picture> <img align="right" src="imagenes/" width = 250px></picture>
 
 
 Here are some ideas to get you started:
