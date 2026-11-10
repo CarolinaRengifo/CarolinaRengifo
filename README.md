@@ -1,15 +1,12 @@
 
 <h1 align="center">
   <b>Hi, I'm Carolina Rengifo</b>
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h3 align="center">
   Full Stack Developer | Mobile Developer | Software Engineer
 </h3>
-
-<p align="center">
-  <img src="imagenes/1760372500272.jpg" width="800">
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Flutter+%26+Dart+Mobile+Developer;Software+Engineer;Building+Real-World+Solutions" alt="Typing SVG">
