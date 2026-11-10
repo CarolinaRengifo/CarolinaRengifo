@@ -41,6 +41,10 @@ I enjoy combining software development, data analysis, and user-centered design 
 
 ### 📱 Chagas Score — Mobile Healthcare Application
 
+<p align="center">
+  <img src="imagenes/logo_chagas-preview.png" width="180">
+</p>
+
 A mobile application designed to support the evaluation of mortality risk in patients with Chagas disease.
 
 - Cross-platform mobile application development.
