@@ -52,8 +52,7 @@ A mobile application designed to support the evaluation of mortality risk in pat
 
 <p align="center">
   <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-10-08 at 15.24.08.png" width="180">
-  <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-10-08 at 15.24.08.png" width="180">
-  <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-10-08 at 15.24.08.png" width="180">
+  <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-04-26 at 15.35.54.png" width="180">
   <img src="imagenes/Simulator Screenshot - iPhone 17 - 2026-10-08 at 15.24.08.png" width="180">
 </p>
 
